@@ -1,0 +1,10 @@
+fetch sirve para llevar cambios desde inicialmende hechos en la web de github 
+hasta la terminal del ordenador.
+
+pull hace que los cambios hechos por fetch se hagan y se traspasen a la rama 
+de el respositorio en el PC.
+
+push hace lo mismo que pul pero se usa cuando se quiere enviar los datos de
+los cambios hechos en el PC a la web de github.
+
+
